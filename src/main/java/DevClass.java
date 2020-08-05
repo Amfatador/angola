@@ -5,6 +5,8 @@ public class DevClass {
     // third line from GUI master
 
     // second line from dev
-    
+
+    // 6th line from dev
+
     // 5th line from master GUI
 }
