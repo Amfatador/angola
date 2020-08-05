@@ -7,4 +7,6 @@ public class Colon {
     // 5
 
     // 6
+
+    // 7
 }
